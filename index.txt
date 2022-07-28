@@ -1,0 +1,292 @@
+Cryptex - Buy & Sell Digital Assets In The cryptex
+
+
+
+#---------- HEADER ----------#
+
+alt = Cryptex logo
+Cryptex
+
+Homepage
+Buy Crypto
+Markets
+Sell Crypto
+Blog
+BITUSDT
+
+aria-label = Toggle menu
+
+Wallet
+
+
+
+#---------- HERO ----------#
+
+Buy & Sell Digital Assets In The Cryptex
+
+Coin Cryptex is the easiest, safest, and fastest way to buy & sell crypto asset exchange.
+
+Get started now
+
+alt = hero banner
+
+
+
+#---------- TREND ----------#
+
+Crypto
+DeFi
+BSC
+NFT
+Metaverse
+Polkadot
+Solana
+Opensea
+Makersplace
+
+alt = bitcoin logo
+
+Bitcoin
+BTC/USD
+
+USD 46,168.95
+
+36,641.20
+-0.79%
+
+alt = ethereum logo
+
+Ethereum
+ETH/USD
+
+USD 3,480.04
+
++10.55%
+
+alt = tether logo
+
+Tether
+USDT/USD
+
+USD 1.00
+
+-0.01%
+
+alt = bnb logo
+
+BNB
+BNB/USD
+
+USD 443.56
+
+-1.24%
+
+
+
+#---------- MARKET ----------#
+
+Market Update
+
+See All Coins
+
+View All
+Metaverse
+Entertainment
+Energy
+NFT
+Gaming
+Music
+
+#
+Name
+Last Price
+24h %
+Market Cap
+Last 7 Days	
+
+aria-label = Add to favourite
+<ion-icon name="star-outline" aria-hidden="true" class="icon-outline"></ion-icon>
+<ion-icon name="star" aria-hidden="true" class="icon-fill"></ion-icon>
+
+1
+alt = Bitcoin logo
+Bitcoin
+BTC
+$56,623.54
++1.45%
+$880,423,640,582
+alt = profit chart
+Trade
+
+2
+alt = Ethereum logo
+Ethereum
+ETH
+-5.12%
+alt = loss chart
+
+3
+alt = Tether logo
+Tether
+USDT/USD
++1.45%
+alt = profit chart
+
+4
+alt = BNB logo
+BNB
+BNB/USD
+-3.75%
+
+5
+alt = Solana logo
+Solana
+SOL
++1.45%
+
+6
+alt = XRP logo
+XRP
+XRP
+-2.22%
+alt = loss chart
+
+7
+alt = Cardano logo
+Cardano
+ADA
++0.8%
+alt = profit chart
+
+8
+alt = Avalanche logo
+Avalanche
+AVAX
++1.41%
+
+
+
+#---------- INSTRUCTION ----------#
+
+How It Work
+
+Stacks is a production-ready library of stackable content blocks built in React Native.
+
+alt = Step 1
+Step 1
+
+Download
+
+Stacks Is A Production-Ready Library Of Stackable Content Blocks Built In React Native.
+
+Step 2
+Connect Wallet
+
+Step 3
+Start Trading
+
+Step 4
+Earn Money
+
+
+
+#---------- ABOUT ----------#
+
+alt = about banner
+
+What Is Cryptex
+
+Experience a variety of trading on Bitcost. You can use various types of coin transactions such as Spot Trade, Futures Trade, P2P, Staking, Mining, and margin.
+
+<ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+View real-time cryptocurrency prices
+
+Experience a variety of trading on Bitcost. You can use various types of coin transactions such as Spot Trade, Futures Trade, P2P, Staking, Mining, and margin.
+
+Buy and sell BTC, ETH, XRP, OKB, Etc...
+
+Explore More
+
+
+
+#---------- APP ----------#
+
+Free Your Money & Invest With Confident
+
+With Cryptor Trade, you can be sure your trading skills are matched
+
+<ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+Buy, Sell, And Trade On The Go
+
+Manage Your Holdings From Your Mobile Decive
+
+Take Control Of Your Wealth
+
+Rest Assured You (And Only You) Have Access To Your Funds
+
+alt = get it on google play
+alt = download on the app store
+
+alt = app banner
+Scan To Download
+
+
+
+#---------- FOOTER ----------#
+
+alt = Cryptex logo
+Cryptex
+
+Let's talk! 🤙
++12 345 678 9101
+
+hello.cryptex@gmail.com
+
+Cecilia Chapman 711-2880 Nulla St. Mankato Mississippi 96522
+
+Products
+
+Spot
+Inverse Perpetual
+USDT Perpetual
+Exchange
+Launchpad
+Binance Pay
+
+Services
+
+Buy Crypto
+Markets
+Tranding Fee
+Affiliate Program
+Referral Program
+API
+
+Support
+
+Bybit Learn
+Help Center
+User Feedback
+Submit a request
+API Documentation
+Trading Rules
+
+About Us
+
+About Bybit
+Authenticity Check
+Careers
+Business Contacts
+Blog
+
+&copy; 2022 Cryptex All Rights Reserved by codewithsadee
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+
+
+
+#---------- HEADER ----------#
